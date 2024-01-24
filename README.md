@@ -1,2 +1,2 @@
 # Plane_Prototype_Challenge
- this repo is for the plane prototype in Unity Junior Programming Pathway
+ This repo is for the plane prototype challenge in Unity Junior Programming Pathway.
